@@ -63,7 +63,7 @@ class pagesController extends Controller
     function vehicleRental(){
         $identifier = "Security Vehicles Rental Services";
         $title = "XL Security & Protection Services Limited | Security Vehicles Rental Services";
-        return view('vehicleRental', ['title'=>$title, 'identifier' => $identifier]);
+        return view('vehiclesRental', ['title'=>$title, 'identifier' => $identifier]);
     }
 
     function tracking(){
