@@ -1148,7 +1148,7 @@
             <div class="container">
                 <div class="row">
 
-                    <div class="col-md-3 col-sm-6">
+                    <div class="col-md-4 col-sm-6">
                         <div id="media_image-1" class="widget widget_media_image">
                             <a href="/"><img src="{{asset('images/logo.png')}}" alt=""></a>
                         </div>
@@ -1169,7 +1169,7 @@
                     </div>
                     <!-- end col-lg-3 -->
 
-                    <div class="col-md-3 col-sm-6">
+                    <div class="col-md-4 col-sm-6">
                         <section id="custom_html-2" class="widget_text widget widget_custom_html padding-left">
                             <h4 class="widget-title">Services</h4>
                             <div class="textwidget custom-html-widget">
@@ -1193,7 +1193,7 @@
 
 
 
-                    <div class="col-md-3 col-sm-6">
+                    <div class="col-md-4 col-sm-6">
                         <section id="custom_html-3" class="widget_text widget widget_custom_html padding-left">
                             <h4 class="widget-title">Company</h4>
                             <div class="textwidget custom-html-widget">
