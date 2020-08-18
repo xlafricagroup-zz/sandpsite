@@ -1218,7 +1218,7 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="footer-copyright">
-                            © 2019 Finacial Consulting Template by <a target="_blank" href="http://themeforest.net/user/ThemeModern/portfolio">ThemeModern</a>
+                            &copy; {{date('Y')}}
                         </div>
                     </div>
                     <div class="col-md-6">
