@@ -1154,7 +1154,7 @@
                         </div>
                         <div id="custom_html-1" class="widget_text widget widget_custom_html">
                             <div class="textwidget custom-html-widget">
-                                <p>FMX offer a wide range of Project and Facilities Management as well as Construction Services in Nigeria and the rest of West Africa.</p>
+                                <p>XL SECURITY & PROTECTION SERVICES LIMITED is a wholly owned indigenous company incorporated by the Corporate Affairs Commission and registered by the Nigerian Security & Civil Defence Corps, to perform multiple security functions.</p>
 
                                 <p>
                                     <a href="#" class="pagelink gray">About us</a>
