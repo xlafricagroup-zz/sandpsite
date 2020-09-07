@@ -676,10 +676,11 @@
                                             <div class="col-md-6">
                                             	<span class="wpcf7-form-control-wrap your-service">
                                             		<select name="your-service" class="wpcf7-form-control wpcf7-select" aria-invalid="false">
-                                            			<option>Industrial Maintenance</option>
-                                            			<option>Project Mnagement</option>
-                                            			<option>Integration and Construction Manpower</option>
-                                            			<option>Project Development and Construction</option>
+                                            			<option>Armed Escort Service</option>
+                                            			<option>Event Security</option>
+                                            			<option>Security Advisory</option>
+                                            			<option>Emergency Response</option>
+                                            			<option>Investigation & Background Profiling</option>
                                             		</select>
                                             	</span>
                                             </div>
