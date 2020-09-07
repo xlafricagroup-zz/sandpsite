@@ -364,8 +364,7 @@
                     <div class="col-md-6">
                         <div class="footer-nav text-right mobile-center">
                             <ul id="footer-menu" class="none-style">
-                                <li><a href="#">Terms and Conditions</a></li>
-                                <li><a href="#">Privacy Policy</a></li>
+                                <li><a href="{{route('termsOfUse')}}">Terms of Use</a></li>
                                 <li><a href="#">FAQs</a></li>
                             </ul>
                         </div>
