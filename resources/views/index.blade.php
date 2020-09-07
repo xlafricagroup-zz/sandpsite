@@ -676,6 +676,7 @@
                                             <div class="col-md-6">
                                             	<span class="wpcf7-form-control-wrap your-service">
                                             		<select name="your-service" class="wpcf7-form-control wpcf7-select" aria-invalid="false">
+                                            			<option>All</option>
                                             			<option>Armed Escort Service</option>
                                             			<option>Event Security</option>
                                             			<option>Security Advisory</option>
