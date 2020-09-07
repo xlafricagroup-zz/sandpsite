@@ -40,7 +40,7 @@
                             </li>
                         </ul>
                         <!-- social icons close -->
-                        <div class="topbar-text fright"> Opening Hours : Monday to Friday - 9am to 4pm</div>
+                        <div class="topbar-text fright"> Opening Hours : Monday to Friday </div>
                     </div>
                 </div>
             </div>
@@ -64,7 +64,7 @@
                                     <!-- contact info -->
                                     <ul class="info-list info_on_right_side fright">
                                         <li>
-                                            <span>Address: <strong>Plot 883, Samuel Manuwa Street, <br> Victoria Island, Lagos.</strong></span> </li>
+                                            <span>Address: <strong>3, Fatai Kaffo Street, Trinity Court<br> Agungi, Lagos.</strong></span> </li>
                                         <li>
                                             <span>Phone: <strong class="font-size14">(+234)  000 0000 000</strong></span> </li>
                                     </ul>
@@ -134,7 +134,7 @@
                                                 <li><a href="post.html">Blog Details</a></li>
                                             </ul>--}}{{--
                                         </li>--}}
-                                        <li><a href="">Contact</a></li>
+                                        <li><a href="{{route('contact')}}">Contact</a></li>
                                     </ul>
                                 </div>
                                 <!-- #site-navigation -->
@@ -251,12 +251,11 @@
                         <h4 class="widget-title">Do you need more info?</h4>
                         <div class="textwidget">
                             <ul class="semi-bold">
-                                <li><span class="normal">Phone:</span> <a href="tel:+1253 1245 1245">+1253 1245 1245</a></li>
+                                <li><span class="normal">Phone:</span> <a href="tel:+234s">+234 000 000</a></li>
                                 <li><span class="normal">Office Address:</span> 3, Fatai Kaffo Street, Trinity Court,
-                                    <br> Agungi,
-                                    <br> Lagos
+                                    <br> Agungi, Lagos
                                 </li>
-                                <li><span class="normal">Mail:</span> <a href="mailto:info@fmxservicesng.com">info@fmxservicesng.com</a></li>
+                                <li><span class="normal">Mail:</span> <a href="mailto:info@xlsecurityservices.com">info@xlsecurityservices.com</a></li>
                             </ul>
                             {{--<div class="gaps style-parent"></div>--}}
                             {{--<div class="wpcf7">

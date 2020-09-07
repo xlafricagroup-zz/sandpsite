@@ -68,7 +68,7 @@ class pagesController extends Controller
 
     function tracking(){
         $identifier = "Vehicles Tracking Services";
-        $title = "XL Security & Protection Services Limited | Vehicles Tracking Services";
+        $title = "XL Security & Protection Services Limited | Vehicles Tracking Services | Security Services in Nigeria | Protection | Armed Escort Services |";
         return view('tracking', ['title'=>$title, 'identifier' => $identifier]);
     }
 
@@ -80,7 +80,7 @@ class pagesController extends Controller
 
     function contact(){
         $identifier = "Contact Us";
-        $title = "XL Security & Protection Services Limited | Contact | Facilities Maintenance | Contact a Facilities Management company";
+        $title = "XL Security & Protection Services Limited | Contact a Security company| Security Services in Nigeria | Protection | Armed Escort Services |";
         return view('contact', ['title'=>$title, 'identifier' => $identifier]);
     }
 
@@ -92,7 +92,7 @@ class pagesController extends Controller
 
     function team(){
         $identifier = "Our Team";
-        $title = "XL Security & Protection Services Limited | Team | Facilities Security company in nigeria | Security company in nigeria";
+        $title = "XL Security & Protection Services Limited | Team | Security Services in Nigeria | Protection | Armed Escort Services | Security company in nigeria";
         return view('team', ['title'=>$title, 'identifier' => $identifier]);
     }
 
@@ -130,10 +130,16 @@ class pagesController extends Controller
 
     function contactSiteOwner(Request $request){
         try{
-            Mail::to('f.sanni@xlafricagroup.com')->cc(['s.williams@xlafricagroup.com', 'y.ajibade@xlafricagroup.com'])->send(new contactForm($request->all()));
+            Mail::to('n.chikendu@xlafricagroup.com')->cc(['s.williams@xlafricagroup.com'])->send(new contactForm($request->all()));
             return response()->json(['success'=>'Request sent']);
         }catch (\Exception $e){
             return $e->getMessage();
         }
+    }
+
+    function termsOfUse(){
+        $identifier = "Terms of Use";
+        $title = "XL Security and Protection Services Limited | Security Services in Nigeria | Protection | Armed Escort Services";
+        return view('termsOfUse', ['title'=>$title, 'identifier' => $identifier]);
     }
 }

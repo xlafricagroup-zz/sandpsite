@@ -41,7 +41,7 @@
                             </li>
                         </ul>
                         <!-- social icons close -->
-                        <div class="topbar-text fright"> Opening Hours : Monday to Friday - 9am to 4pm</div>
+                        <div class="topbar-text fright"> Opening Hours : Monday to Friday</div>
                     </div>
                 </div>
             </div>
@@ -65,7 +65,7 @@
                                     <!-- contact info -->
                                     <ul class="info-list info_on_right_side fright">
                                         <li>
-                                            <span>Address: <strong>Plot 883, Samuel Manuwa Street, <br> Victoria Island, Lagos.</strong></span> </li>
+                                            <span>Address: <strong>3, Fatai Kaffo Street, Trinity Court<br> Agungi, Lagos.</strong></span> </li>
                                         <li>
                                             <span>Phone: <strong class="font-size14">(+234)  000 0000 000</strong></span> </li>
                                     </ul>

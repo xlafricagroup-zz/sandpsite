@@ -47,7 +47,7 @@
                             </li>
                         </ul>
                         <!-- social icons close -->
-                        <div class="topbar-text fright"> Opening Hours : Monday to Saturday - 9am to 4pm</div>
+                        <div class="topbar-text fright"> Opening Hours : Monday to Friday</div>
                     </div>
                 </div>
             </div>
@@ -73,7 +73,7 @@
                                         <li>
                                             <span> <strong>3, Fatai Kaffo Street, Trinity Court,<br> Agungi, Lagos.</strong></span> </li>
                                         <li>
-                                            <span>Phone: <strong class="font-size18">(234) 000 814 3527</strong></span> </li>
+                                            <span>Phone: <strong class="font-size18">(234) 000 000 000</strong></span> </li>
                                     </ul>
                                     <!-- contact info close -->
                                 </div>
@@ -219,83 +219,83 @@
                 <ul>
                     <li data-transition="fade" data-slotamount="10" data-masterspeed="default" data-thumb="">
                         <!--  BACKGROUND IMAGE -->
-                        <img src="{{asset('images/slides/facility-management.jpg')}}" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" />
+                        <img src="{{asset('images/slides/security.jpg')}}" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" />
                         <div class="tp-caption tp-resizeme" data-x="right" data-hoffset="['0']" data-y="bottom" data-voffset="" data-width="['auto','320','auto','320']" data-transform_idle="o:1;" data-transform_in="x:550px;opacity:0;s:800;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-start="1000" data-responsive_offset="on">
-                            <img class="img-responsive md-hidden sm-hidden xs-hidden" src="images/man-slide.png" alt="Image">
+                            {{--<img class="img-responsive md-hidden sm-hidden xs-hidden" src="" alt="Image">--}}
                         </div>
                         <div class="tp-caption tp-resizeme font-second text-second bolder" data-x="['left']" data-hoffset="['0','15','15','15']" data-y="top" data-voffset="200" data-width="['580','580','480','320']" data-transform_idle="o:1;" data-transform_in="x:100px;opacity:0;s:800;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-start="1500" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-fontsize="['14','14','14','14']" data-responsive_offset="on">
                             {{--<p>WE'RE FMX</p>--}}
                         </div>
-                        <div class="tp-caption tp-resizeme font-second text-second bolder" data-x="['left']" data-hoffset="['0','15','15','15']" data-y="center" data-voffset="['-45','-45','-45','-45']" data-width="['670','580','480','320']" data-transform_idle="o:1;" data-transform_in="x:100px;opacity:0;s:800;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-start="1700" data-whitespace="['normal']" data-fontsize="['50','50','40','30']" data-lineheight="['60','60','50','40']" data-responsive_offset="on">
+                        <div class="tp-caption tp-resizeme font-second text-light bolder" data-x="['left']" data-hoffset="['0','15','15','15']" data-y="center" data-voffset="['-45','-45','-45','-45']" data-width="['670','580','480','320']" data-transform_idle="o:1;" data-transform_in="x:100px;opacity:0;s:800;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-start="1700" data-whitespace="['normal']" data-fontsize="['50','50','40','30']" data-lineheight="['60','60','50','40']" data-responsive_offset="on">
                             <p>Static Man-Guarding</p>
                         </div>
                         <div class="tp-caption tp-resizeme sh3" data-x="['left']" data-hoffset="['0','15','15','15']" data-y="center" data-voffset="['60','60','60','60']" data-width="['580','580','480','300']" data-transform_idle="o:1;" data-whitespace="['normal','normal','normal','normal']" data-transform_in="x:100px;opacity:0;s:800;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-start="1900" data-fontsize="['16','16','14','12']" data-lineheight="['24','24','18','16']" data-responsive_offset="on">
                             {{--<p class="text-white" style="font-size: 22px; font-weight: 400; color: white">We help take the burden of maintenance away from you. Focus on what matters, we make maintaining your facilities is our headache.</p>--}}
                         </div>
-                        <div class="tp-caption" data-x="['left']" data-hoffset="['0','15','15','15']" data-y="bottom" data-voffset="['185','185','185','185']" data-transform_idle="o:1;" data-transform_in="x:100px;opacity:0;s:800;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-start="2100">
-                            <a class="btn" href="#">GET QUOTE</a>
+                        <div class="tp-caption" data-x="['left']" data-hoffset="['0','15','15','15']" data-y="center" data-voffset="['30','30','30','30']" data-transform_idle="o:1;" data-transform_in="x:100px;opacity:0;s:800;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-start="2100">
+                            <a class="btn" href="#">REACH OUT</a>
                         </div>
                     </li>
 
                     <li data-transition="fade" data-slotamount="10" data-masterspeed="default" data-thumb="">
                         <!--  BACKGROUND IMAGE -->
-                        <img src="{{asset('images/slides/project-management.jpg')}}" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" />
+                        <img src="{{asset('images/slides/protection.jpg')}}" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" />
                         <div class="tp-caption tp-resizeme" data-x="right" data-hoffset="" data-y="bottom" data-voffset="" data-width="['auto','380','auto','320']" data-transform_idle="o:1;" data-transform_in="x:550px;opacity:0;s:800;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-start="1000" data-responsive_offset="on">
-                            <img class="img-responsive md-hidden sm-hidden xs-hidden" src="images/woman-slide.png" alt="Image">
+                            <img class="img-responsive md-hidden sm-hidden xs-hidden" src="" alt="Image">
                         </div>
-                        <div class="tp-caption tp-resizeme font-second text-second bolder" data-x="['left']" data-hoffset="['0','15','15','15']" data-y="top" data-voffset="200" data-width="['580','580','480','320']" data-transform_idle="o:1;" data-transform_in="x:100px;opacity:0;s:800;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-start="1500" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-fontsize="['14','14','14','14']" data-responsive_offset="on">
+                        <div class="tp-caption tp-resizeme font-second text-light bolder" data-x="['left']" data-hoffset="['0','15','15','15']" data-y="top" data-voffset="200" data-width="['580','580','480','320']" data-transform_idle="o:1;" data-transform_in="x:100px;opacity:0;s:800;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-start="1500" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-fontsize="['14','14','14','14']" data-responsive_offset="on">
                             {{--<p>WE'RE CONSULTAX</p>--}}
                         </div>
-                        <div class="tp-caption tp-resizeme font-second text-second bolder" data-x="['left']" data-hoffset="['0','15','15','15']" data-y="center" data-voffset="['-45','-45','-45','-45']" data-width="['670','580','480','320']" data-transform_idle="o:1;" data-transform_in="x:100px;opacity:0;s:800;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-start="1700" data-whitespace="['normal']" data-fontsize="['50','50','40','30']" data-lineheight="['60','60','50','40']" data-responsive_offset="on">
+                        <div class="tp-caption tp-resizeme font-second text-light bolder" data-x="['left']" data-hoffset="['0','15','15','15']" data-y="center" data-voffset="['-45','-45','-45','-45']" data-width="['670','580','480','320']" data-transform_idle="o:1;" data-transform_in="x:100px;opacity:0;s:800;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-start="1700" data-whitespace="['normal']" data-fontsize="['50','50','40','30']" data-lineheight="['60','60','50','40']" data-responsive_offset="on">
                             <p>Armed Escort Security Services</p>
                         </div>
                         <div class="tp-caption tp-resizeme sh3" data-x="['left']" data-hoffset="['0','15','15','15']" data-y="center" data-voffset="['60','60','60','60']" data-width="['580','580','480','300']" data-transform_idle="o:1;" data-whitespace="['normal','normal','normal','normal']" data-transform_in="x:100px;opacity:0;s:800;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-start="1900" data-fontsize="['16','16','14','12']" data-lineheight="['24','24','18','16']" data-responsive_offset="on">
                             {{--<p class="text-white" style="font-size: 22px; font-weight: 400; color: white">We are grounded in construction projects management. our years of experince has placed us on high radar in the industry</p>--}}
                         </div>
-                        <div class="tp-caption" data-x="['left']" data-hoffset="['0','15','15','15']" data-y="bottom" data-voffset="['185','185','185','185']" data-transform_idle="o:1;" data-transform_in="x:100px;opacity:0;s:800;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-start="2100">
+                        {{--<div class="tp-caption" data-x="['left']" data-hoffset="['0','15','15','15']" data-y="bottom" data-voffset="['185','185','185','185']" data-transform_idle="o:1;" data-transform_in="x:100px;opacity:0;s:800;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-start="2100">
                             <a class="btn" href="#">GET QUOTE</a>
-                        </div>
+                        </div>--}}
                     </li>
 
                     <li data-transition="fade" data-slotamount="10" data-masterspeed="default" data-thumb="">
                         <!--  BACKGROUND IMAGE -->
-                        <img src="{{asset('images/slides/construction.jpg')}}" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" />
+                        <img src="{{asset('images/slides/cctv.jpg')}}" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" />
                         <div class="tp-caption tp-resizeme" data-x="right" data-hoffset="" data-y="bottom" data-voffset="" data-width="['auto','290','auto','320']" data-transform_idle="o:1;" data-transform_in="x:550px;opacity:0;s:800;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-start="1000" data-responsive_offset="on">
                             <img class="img-responsive md-hidden sm-hidden xs-hidden" src="images/man-slide-2.png" alt="Image">
                         </div>
                         <div class="tp-caption tp-resizeme font-second text-second bolder" data-x="['left']" data-hoffset="['0','15','15','15']" data-y="top" data-voffset="200" data-width="['580','580','480','320']" data-transform_idle="o:1;" data-transform_in="x:100px;opacity:0;s:800;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-start="1500" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-fontsize="['14','14','14','14']" data-responsive_offset="on">
                             {{--<p>WE'RE CONSULTAX</p>--}}
                         </div>
-                        <div class="tp-caption tp-resizeme font-second text-second bolder" data-x="['left']" data-hoffset="['0','15','15','15']" data-y="center" data-voffset="['-45','-45','-45','-45']" data-width="['670','580','480','320']" data-transform_idle="o:1;" data-transform_in="x:100px;opacity:0;s:800;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-start="1700" data-whitespace="['normal']" data-fontsize="['50','50','40','30']" data-lineheight="['60','60','50','40']" data-responsive_offset="on">
+                        <div class="tp-caption tp-resizeme font-second text-light bolder" data-x="['left']" data-hoffset="['0','15','15','15']" data-y="center" data-voffset="['-45','-45','-45','-45']" data-width="['670','580','480','320']" data-transform_idle="o:1;" data-transform_in="x:100px;opacity:0;s:800;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-start="1700" data-whitespace="['normal']" data-fontsize="['50','50','40','30']" data-lineheight="['60','60','50','40']" data-responsive_offset="on">
                             <p>CCTV Installation & Servicing</p>
                         </div>
                         <div class="tp-caption tp-resizeme sh3" data-x="['left']" data-hoffset="['0','15','15','15']" data-y="center" data-voffset="['60','60','60','60']" data-width="['580','580','480','300']" data-transform_idle="o:1;" data-whitespace="['normal','normal','normal','normal']" data-transform_in="x:100px;opacity:0;s:800;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-start="1900" data-fontsize="['16','16','14','12']" data-lineheight="['24','24','18','16']" data-responsive_offset="on">
                             {{--<p class="text-white" style="font-size: 22px; font-weight: 400; color: white">our design and build services are therefore tailored towards achieving project execution through a one-stop shop approach under our value propositions.</p>--}}
                         </div>
-                        <div class="tp-caption" data-x="['left']" data-hoffset="['0','15','15','15']" data-y="bottom" data-voffset="['185','185','185','185']" data-transform_idle="o:1;" data-transform_in="x:100px;opacity:0;s:800;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-start="2100">
-                            <a class="btn" href="#">GET QUOTE</a>
-                        </div>
+                        {{--<div class="tp-caption" data-x="['left']" data-hoffset="['0','15','15','15']" data-y="bottom" data-voffset="['185','185','185','185']" data-transform_idle="o:1;" data-transform_in="x:100px;opacity:0;s:800;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-start="2100">
+                            <a class="btn" href="#">REACH OUT</a>
+                        </div>--}}
                     </li>
 
-                    <li data-transition="fade" data-slotamount="10" data-masterspeed="default" data-thumb="">
+                    {{--<li data-transition="fade" data-slotamount="10" data-masterspeed="default" data-thumb="">
                         <!--  BACKGROUND IMAGE -->
                         <img src="{{asset('images/slides/construction.jpg')}}" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" />
                         <div class="tp-caption tp-resizeme" data-x="right" data-hoffset="" data-y="bottom" data-voffset="" data-width="['auto','290','auto','320']" data-transform_idle="o:1;" data-transform_in="x:550px;opacity:0;s:800;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-start="1000" data-responsive_offset="on">
                             <img class="img-responsive md-hidden sm-hidden xs-hidden" src="images/man-slide-2.png" alt="Image">
                         </div>
                         <div class="tp-caption tp-resizeme font-second text-second bolder" data-x="['left']" data-hoffset="['0','15','15','15']" data-y="top" data-voffset="200" data-width="['580','580','480','320']" data-transform_idle="o:1;" data-transform_in="x:100px;opacity:0;s:800;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-start="1500" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-fontsize="['14','14','14','14']" data-responsive_offset="on">
-                            {{--<p>WE'RE CONSULTAX</p>--}}
+                            --}}{{--<p>WE'RE CONSULTAX</p>--}}{{--
                         </div>
                         <div class="tp-caption tp-resizeme font-second text-second bolder" data-x="['left']" data-hoffset="['0','15','15','15']" data-y="center" data-voffset="['-45','-45','-45','-45']" data-width="['670','580','480','320']" data-transform_idle="o:1;" data-transform_in="x:100px;opacity:0;s:800;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-start="1700" data-whitespace="['normal']" data-fontsize="['50','50','40','30']" data-lineheight="['60','60','50','40']" data-responsive_offset="on">
                             <p>Armed Escort Security Services</p>
                         </div>
                         <div class="tp-caption tp-resizeme sh3" data-x="['left']" data-hoffset="['0','15','15','15']" data-y="center" data-voffset="['60','60','60','60']" data-width="['580','580','480','300']" data-transform_idle="o:1;" data-whitespace="['normal','normal','normal','normal']" data-transform_in="x:100px;opacity:0;s:800;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-start="1900" data-fontsize="['16','16','14','12']" data-lineheight="['24','24','18','16']" data-responsive_offset="on">
-                            {{--<p class="text-white" style="font-size: 22px; font-weight: 400; color: white">our design and build services are therefore tailored towards achieving project execution through a one-stop shop approach under our value propositions.</p>--}}
+                            --}}{{--<p class="text-white" style="font-size: 22px; font-weight: 400; color: white">our design and build services are therefore tailored towards achieving project execution through a one-stop shop approach under our value propositions.</p>--}}{{--
                         </div>
                         <div class="tp-caption" data-x="['left']" data-hoffset="['0','15','15','15']" data-y="bottom" data-voffset="['185','185','185','185']" data-transform_idle="o:1;" data-transform_in="x:100px;opacity:0;s:800;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-start="2100">
                             <a class="btn" href="#">GET QUOTE</a>
                         </div>
-                    </li>
+                    </li>--}}
 
                 </ul>
             </div>

@@ -32,4 +32,5 @@ Route::get('/security-advisory-services', 'pagesController@advisory')->name('adv
 Route::get('contact', 'pagesController@contact')->name('contact');
 Route::post('contactSiteOwner', 'pagesController@contactSiteOwner')->name('contactSiteOwner');
 Route::get('team', 'pagesController@team')->name('team');
+Route::get('termsOfUse', 'pagesController@termsOfUse')->name('termsOfUse');
 

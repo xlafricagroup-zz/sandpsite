@@ -12,7 +12,7 @@
                                     <div class="wpb_wrapper">
                                         <div class="section-head ">
                                             <h6><span>Lagos Office</span></h6>
-                                            <h4 class="section-title">Plot 883, Samuel Manuwa St, Off Aboyade Cole, Victoria Island.</h4>
+                                            <h4 class="section-title">3, Fatai Kaffo Street, Trinity Court, Agungi, Lagos</h4>
                                         </div>
 
                                         <div class="empty_space_12"><span class="empty_space_inner"></span></div>
@@ -24,7 +24,7 @@
                                     <div class="wpb_wrapper">
                                         <div class="wpb_text_column wpb_content_element contact-info">
                                             <div class="wpb_wrapper">
-                                                <p><a href="mailto:info@xloutsourcingservices.com"><i class="fa fa-envelope"> info@xloutsourcingservices.com</i></a><a href="tel:+234 0000 0000"><i class="fa fa-phone-square"> +234 0000 0000</i></a></p>
+                                                <p><a href="mailto:info@xlsecurityservices.com"><i class="fa fa-envelope"> info@xlsecurityservices.com</i></a><a href="tel:+234 0000 0000"><i class="fa fa-phone-square"> +234 0000 0000</i></a></p>
 
                                             </div>
                                         </div>
@@ -122,7 +122,7 @@
                     </div>
                 </section>
                 <div class="mapouter"><div class="gmap_canvas"><iframe width="1080" height="504" id="gmap_canvas" src="https://maps.google.com/maps?q=xl%20afriva%20group&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.whatismyip-address.com/nordvpn-coupon/">nordvpn special</a></div><style>.mapouter{position:relative;text-align:right;height:504px;width:1080px;}.gmap_canvas {overflow:hidden;background:none!important;height:504px;width:1120px;}</style></div>
-                <section class="wpb_row row-fluid address-section">
+                {{--<section class="wpb_row row-fluid address-section">
                     <div class="container">
                         <div class="row">
                             <div class="wpb_column column_container col-sm-6">
@@ -167,7 +167,7 @@
                             </div>
                         </div>
                     </div>
-                </section>
+                </section>--}}
 
             </div>
         </div>
